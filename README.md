@@ -1,1 +1,1 @@
-Dataset of Google stock market 
+Datasets and projects for course
